@@ -1,7 +1,7 @@
 // const prompt=require("prompt-sync")()
 
 let user=prompt("Enter R,P or S")
-user=(user.toUpperCase())
+user=user.toUpperCase()
 let cpu1=Math.floor(Math.random()*3);
 let cpu=["R","P","S"][cpu1]
 const match=(cpu,user)=>{
