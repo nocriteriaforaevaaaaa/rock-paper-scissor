@@ -35,18 +35,16 @@ nav a{
 .btn{
     
         border: 1px solid black;
-        padding: 20px;
+        padding: 10px;
         background-color:black;
         text-align: center;
 }
 .head{
     text-align: center;
     font-size: xx-large;
-    
-}
-.box0{
     border: 1px solid black;
     padding: 20px;
     background-color: darkcyan
-
+    
 }
+
